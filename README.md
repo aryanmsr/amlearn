@@ -15,4 +15,3 @@ amlearn is a machine learning library currently being built purely for my own ed
 - [ ] Principal Component Analysis (PCA)
 - [ ] Linear Discriminant Analysis (LDA)
 - [ ] K-Means Clustering 
-- [ ] All Main Algorithms Done :tada:
