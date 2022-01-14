@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img alt="Cover" src="https://github.com/aryanmsr/Mobile_Game_Analysis/blob/master/mobile_game_cover.jpg" />
+  <img alt="Cover" src="https://images.unsplash.com/photo-1504639725590-34d0984388bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80" />
 </div>
 
 
