@@ -15,7 +15,7 @@ amlearn is a machine learning library currently being built purely for my own ed
 - [x] Linear Regression
 - [x] Logistic Regression 
 - [x] Naive Bayes
-- [ ] Basic Neural Network (Perceptron)
+- [x] Basic Neural Network (Perceptron)
 - [ ] Support Vector Machine (SVM)
 - [ ] Decision Tree
 - [ ] Random Forest
